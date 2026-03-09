@@ -4,7 +4,6 @@
     <b>Computer Science @ Northeastern University</b><br>
     Building scalable backends & native iOS apps.
   </p>
-
 <a href="https://linkedin.com/in/andersonliew">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
